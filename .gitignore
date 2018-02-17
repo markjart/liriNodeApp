@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# Per homework instructions.  Other two already listed above.
+.DS_Store
