@@ -7,55 +7,57 @@ var Twitter = require("twitter");
 var client = new Twitter(dataKeys.twitter);
 var Spotify = require("node-spotify-api");
 var spotify = new Spotify(dataKeys.spotify);
+
+//GLOBAL VARIABLES ===========================================================
 var results;
 var doingItResults;
 var didItFirst;
 var didItSecond;
 var didItThird;
 var didItFourth;
+var caseData = process.argv[2];
+var functionData = process.argv[3];
+var procArgv;
 
 //FUNCTIONS START ===========================================================
 
-//SpotZilla takes inputs in the form:
+//spotZilla takes inputs in the form:
 //node liri.js spotify <any song title> for the top 10 results related to that title,
-//or <LEAVE BLANK> for the top 10 search result on "The Sign" - #6-ish should be from Ace of Base.
+//or <LEAVE BLANK> for the top 10 search result on "The Sign" from Ace of Base.
 //NOTE: I changed the commands (spotify-this-song is now just "spotify" - no quotes) because I, and my LIRI, hate dashes.
-function SpotZilla(songName) {
-	songName = process.argv[3];	
-	var spotArgv = process.argv;	
-	if(!songName){
-		songName = "The+Sign";
+function spotZilla(functionData) {
+	procArgv = process.argv;
+	if(!functionData){
+		functionData = "The+Sign+Ace+of+Base";
 	}
 	else {
-		var songName = "";
+		for (var i = 4; i < procArgv.length; i++) {
+			if (i > 3 && i < procArgv.length) {
+				functionData = functionData + "+" + procArgv[i];	
+			}
+			else {
+				functionData += procArgv[i];
+			}
+		}	
 	}
-	for (var i = 3; i < spotArgv.length; i++) {
-		if (i > 3 && i < spotArgv.length) {
-			songName = songName + "+" + spotArgv[i];
-		}
-		else {
-			songName += spotArgv[i];
-		}
-	}
-			//console.log("songName: " + songName);
-			//console.log("spotArgv: " + spotArgv);
-	spotify.search({ type: "track", query: songName }, function(err, data) {
+	spotify.search({ type: "track", query: functionData }, function(err, data) {
 		if(!err){
 			var songInfo = data.tracks.items;
+			updateLogCmd(caseData, functionData);
 			for (var i = 0; i < 10; i++) {
 				var tick = i + 1;
-					results =
-						"\n#" + tick + " Spotify Search result" +
-						" =====================\n\n" +				
-						"Artist: " +
-						songInfo[i].artists[0].name +
-						"\nSong: " + 
-						songInfo[i].name +
-						"\nAlbum: " + 
-						songInfo[i].album.name +
-						"\nPreview Url: " + 
-						songInfo[i].preview_url;
+					results = 
+						"\nTop 10 Spotify result for: " + functionData + 
+						" ============" +  
+						"\n#" + tick + 
+						":" + 
+						"\nSong: " + songInfo[i].name +
+						"\nArtist: " + songInfo[i].artists[0].name +
+						"\nAlbum: " + songInfo[i].album.name +
+						"\nPreview Url: " + songInfo[i].preview_url +
+						"\n";
 					console.log(results);
+					updateLogData(results);
 			}
 		}
 	});
@@ -64,44 +66,44 @@ function SpotZilla(songName) {
 //movieZilla takes inputs in the form:
 //node liri.js movie <any movie name> or <leave blank for movie stats from "Mr. Nobody">
 //NOTE: I changed the commands ("movie-this" is now just "movie" - no quotes) because I, and my LIRI, hate dashes.
-function movieZilla(movieName) {
-	movieName = process.argv[3];
-	if(!movieName){
-		movieName = "Mr+Nobody";
+function movieZilla(functionData) {
+	procArgv = process.argv;
+	if(!functionData){
+		functionData = "Mr+Nobody";
 	}
 	else {
-		var movieName = "";
-	}
-	var movieArgv = process.argv;
-	for (var i = 3; i < movieArgv.length; i++) {
-		if (i > 3 && i < movieArgv.length) {
-			movieName = movieName + "+" + movieArgv[i];
-		}
-		else {
-			movieName += movieArgv[i];
-		}
-	}	
-	var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=full&tomatoes=true&apikey=trilogy";
+		for (var i = 4; i < procArgv.length; i++) {
+			if (i > 3 && i < procArgv.length) {
+				functionData = functionData + "+" + procArgv[i];
+			}
+			else {
+				functionData += procArgv[i];
+			}
+		}	
+	}		
+	var queryUrl = "http://www.omdbapi.com/?t=" + functionData + "&y=&plot=full&tomatoes=true&apikey=trilogy";
 	request(queryUrl, function(error, response, body) {
 		if (!error && response.statusCode == 200) {
 			var jsonData = JSON.parse(body);
+			updateLogCmd(caseData, functionData);
 			results = 
-				"\n===============================================================================" + 
-				"\nMovie Title: " + jsonData.Title +
-				"\nStaring: " + jsonData.Actors + 
-				"\nRelease Year: " + jsonData.Year + 
-				"\nimdb Rating: " + jsonData.imdbRating + 
-				"\n =============================================================================" +
-				"\nFilmed in: " + jsonData.Country + 
-				"\nLanguage: " + jsonData.Language + 
-				"\nMovie Plot ===================================================================\n" +
+				"\nOMDB API Results for: " + functionData + 
+				" ====================" +  
+				"\n Movie Title: " + jsonData.Title +
+				"\n Staring: " + jsonData.Actors + 
+				"\n imdb Rating: " + jsonData.imdbRating + 
+				"\n Release Year: " + jsonData.Year + 
+				"\n  -Filmed in: " + jsonData.Country + 
+				"\n  -Language: " + jsonData.Language + 				
+				"\nMovie Plot: ==================================================================\n" +
 				jsonData.Plot + 
-				"\n==============================================================================" +
-				"\nRotten Tomatoes Score: " + jsonData.Ratings[1].Value + 
-				"\nRotten Tomatoes URL: " + jsonData.tomatoURL + 
-				"\n===============================================================================";
+				"\nRotten Tomatoes: =============================================================" +
+				"\n Score: " + jsonData.Ratings[1].Value + 
+				"\n URL: " + jsonData.tomatoURL + 
+				"\n===============================================================================" + 
+				"\n";;
 			console.log(results);
-			//updateLog(data);
+			updateLogData(results);
 		}
 	});
 }
@@ -109,92 +111,75 @@ function movieZilla(movieName) {
 //tweetZilla takes inputs in the form:
 //node liri.js tweets <twitterUserName> or <@twitterUserName> or <LEAVE BLANK> for tweets from @markjart.
 //NOTE: I changed the commands (my-tweets is now just "tweets" - no quotes) because I, and my LIRI, hate dashes.
-function tweetZilla(twitterUsername){
-	twitterUsername = process.argv[3];
-		if(!twitterUsername){
-			twitterUsername = "markjart";
+function tweetZilla(functionData){
+		if(!functionData){
+			functionData = "markjart";
 		}
-	var params = {screen_name: twitterUsername, count: 20};
-	
-	client.get("statuses/user_timeline", params, function(error, tweets, response) {
+	var params = {screen_name: functionData, count: 20};
+	client.get("statuses/user_timeline", params, function(error, functionData, response) {
 		if (!error) {
-			for(var i = 0; i < tweets.length; i++) {
+			for(var i = 0; i < functionData.length; i++) {
 				var tick = i + 1;
 				results = 
-					"\nTweet #" 
-					+ tick + 
-					" ===================================\n\n" 
-					+ tweets[i].text + 
-					"\n\n  Tweeted on: " 
-					+ tweets[i].created_at +
-					"\n  By: @" 
-					+ tweets[i].user.screen_name;
+					"\nTweet #" + tick + 
+					" By: @" + functionData[i].user.screen_name + " ==========\n\n" 
+					+ functionData[i].text + "\n\n========== Tweeted on: " 
+					+ functionData[i].created_at + 
+					"\n";;
 				console.log(results);
+				updateLogCmd("tweets", functionData[i].user.screen_name);
+				updateLogData(results);
 			}
 		}
 	});
 };
 
-
-/*doingIt takes inputs in the form: node liri.js doItToIt, which will output the command and song name, but I haven't been able to get it to work fully yet.  It reads the random.txt file and converts the song name for use by spotify, but I haven't managed to figure it out just yet because I kept going back and forth between a couple of different ways of doing it.  I also ran into issues with how I built a couple of the above functions, and I will need to re-factor them to get them to work with this function.
-NOTE: I changed the commands (my-tweets is now just "tweets" - no quotes) because I, and my LIRI, hate dashes.*/
-function doingIt() {
+/*doZilla takes inputs in the form: node liri.js doItToIt, which, in turn, will read the information in random.txt as <command,"title or userName"> which will call the appropriate function and pass the data provided (Examples: spotify,"I Want it That Way" || movie,"The Right Stuff" || tweets,"@pattonoswalt").
+NOTE: I changed the commands (do-what-it-says is now "doItToIt" - no quotes) because I, and my LIRI, hate dashes.*/
+function doZilla() {
 	fs.readFile("random.txt", "utf8", function(error, readIt){
 		if (!error) {
 			doingItResults = readIt.split(",");
 			didItFirst = doingItResults[0].trim();
 			didItSecond = doingItResults[1].trim();
-			
-			console.log("Cmd: " + didItFirst);
-			console.log("songTake 1: " + didItSecond);
-	
 			didItThird = didItSecond.replace(/ /gi, "+");
-			//console.log("songTake 2: " + didItThird);
 			didItFourth = didItThird.replace(/\"/gi, "");
-			console.log("songTake 3: " + didItFourth);
-	
-			//SpotZilla(didItFourth);
-			
-			//SpotZilla(doingItResults[0].trim(), doingItResults[1].trim());
-		//console.log("4. " + doingItResults[0].trim());
-		//console.log("5. " + doingItResults[1].trim());
+			switch(didItFirst) {
+				case "tweets":
+					tweetZilla(didItFourth);
+					break;
+				case "spotify":
+					spotZilla(didItFourth);
+					break;
+				case "movie":
+					movieZilla(didItFourth);
+					break;
+				default:
+					console.log("Oops, something went wrong. \nPlease try again. \nMaybe check the data structure in the file.")
+			}
 		}
 		else {
 			console.log("Error occurred" + error);
 		}
-
 	});
 };
 
-/*
-function doingIt() {
-
-	// Read the file containing the command
-	fs.readFile("random.txt", "utf8", function (error, data) {
-		if (error) {
-			console.log("ERROR: Reading random.txt -- " + error);
-			return;
-		} else {
-			// Split out the command name and the parameter name
-			var cmdString = data.split(",");
-			var command = cmdString[0].trim();
-			var functionData = cmdString[1].trim();
-
-			switch(command) {
-				case "tweets":
-					tweetZilla(functionData);
-					break;
-				case "spotify":
-					SpotZilla(functionData);
-					break;
-				case "movie":
-					movieZilla(functionData);
-					break;
-			}
+//Function for adding data to log.txt file.
+function updateLogCmd(caseData, functionData) {
+	fs.appendFile("log.txt", "\nUser Command: node liri.js " + caseData + " " + functionData, function(err) {
+		if (err) {
 		}
 	});
-}
-*/
+	console.log("log.txt updated!");
+};
+
+function updateLogData(results) {
+	fs.appendFile("log.txt", results, function(err) {
+		if (err) {
+			return console.log(err);
+		}
+	});			
+};
 
 //pick and runThis functions set things up for command line inputs and switch the function to run accordingly.
 //You can run node liri.js with no additional commands to load the list of accepted commands.
@@ -204,36 +189,38 @@ function pick(caseData, functionData) {
 			tweetZilla(functionData);
 			break;
 		case "spotify":
-			SpotZilla(functionData);
+			spotZilla(functionData);
 			break;
 		case "movie":
 			movieZilla(functionData);
 			break;
-		case "doItToIt":
-			doingIt(functionData);
+		case "doIt":
+			doZilla(functionData);
 			break;
 		default:
 			console.log(
-				"\n====================================================================" +
+				"\n========================================================================================" +
 				"\nEither something went wrong..." +
 				"\n or this is your first day with the new hands..." +
-				"\n  Either way - Use these commands after typing: node liri.js ..." +
-				"\n    1. tweets twitterUserName or @twitterUserName or leave blank" +
-				"\n    2. spotify name of song or leave blank" +
-				"\n    3. movie name of movie or leave blank" +
-				"\n    4. doItToIt (Currently unfinished - partially working.)" +
-				"\n\n=========== EXAMPLE: node liri.js spotify What About Us ============" +
-				"\n====================================================================");
+				"\n  Either way - LIRI LOVES YOU!" +
+				"\n   Use these commands (without the <>'s) after typing: node liri.js ..." +
+				"\n    1. tweets <twitterUserName> or <@twitterUserName> or <leave blank>" +
+				"\n    2. spotify <song title> or <song title band name> or <leave blank>" +
+				"\n    3. movie <name of movie> or <leave blank>" +
+				"\n    4. doIt (Call one of the above commands based on data in the file: 'random.txt'" +
+				"\n             data structure for file: <command,'title or userName'>)" + 
+				"\n========================================================================================");
 	}
 }
 
 function runThis(caseData, functionData) {
-  pick(caseData, functionData);
+	pick(caseData, functionData);
 };
 
-//run this on load of js file
+//FUNCTIONS END ===========================================================
+//START LOADS =============================================================
+
 runThis(process.argv[2], process.argv[3]);
 
-
-
-
+//END LOADS ===============================================================
+//===== END OF FILE =======================================================

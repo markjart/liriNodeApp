@@ -1,2 +1,405 @@
 
+User Command: node liri.js spotify What+About+Us
+Top 10 Spotify result for: What+About+Us ============
+#1:
+Song: What About Us
+Artist: P!nk
+Album: Beautiful Trauma
+Preview Url: https://p.scdn.co/mp3-preview/b97d90c4adf9386281985180edf7c7940e8908cb?cid=b28fadab20274c57a40578e8bac3ed14
 
+Top 10 Spotify result for: What+About+Us ============
+#2:
+Song: What About Us
+Artist: Davina Michelle
+Album: What About Us
+Preview Url: https://p.scdn.co/mp3-preview/ef0350add282cecd9852474b507e934ecd4599f0?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: What+About+Us ============
+#4:
+Song: What About Us
+Artist: Kidz Bop Kids
+Album: KIDZ BOP 37
+Preview Url: null
+
+Top 10 Spotify result for: What+About+Us ============
+#3:
+Song: What About Us - Cash Cash Remix
+Artist: P!nk
+Album: What About Us (The Remixes)
+Preview Url: https://p.scdn.co/mp3-preview/b212eda4c433dfc64d122476d3a38a99fa573ab7?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: What+About+Us ============
+#7:
+Song: What About Us
+Artist: Kalpee
+Album: What About Us
+Preview Url: https://p.scdn.co/mp3-preview/4707fa9612fd4e11906a9b54e0ca0e4de36c2148?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: What+About+Us ============
+#6:
+Song: What About Us
+Artist: Flume
+Album: Lockjaw
+Preview Url: null
+
+Top 10 Spotify result for: What+About+Us ============
+#5:
+Song: What About Us
+Artist: The Saturdays
+Album: Living For The Weekend (Deluxe Edition)
+Preview Url: null
+
+Top 10 Spotify result for: What+About+Us ============
+#9:
+Song: What Is It About Men
+Artist: Amy Winehouse
+Album: Frank (US e-Version)
+Preview Url: null
+
+Top 10 Spotify result for: What+About+Us ============
+#10:
+Song: What About Us - Tiësto's AFTR:HRS Remix
+Artist: P!nk
+Album: What About Us (Tiësto's AFTR:HRS Remix)
+Preview Url: https://p.scdn.co/mp3-preview/08970e3b0daa3fe2a12147c912e2cc0a99007c55?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: What+About+Us ============
+#8:
+Song: What About Us
+Artist: Jodeci
+Album: Diary Of A Mad Band
+Preview Url: null
+
+User Command: node liri.js movie The+Empire+Strikes+Back
+OMDB API Results for: The+Empire+Strikes+Back ====================
+ Movie Title: Star Wars: Episode V - The Empire Strikes Back
+ Staring: Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams
+ imdb Rating: 8.8
+ Release Year: 1980
+  -Filmed in: USA
+  -Language: English
+Movie Plot: ==================================================================
+Luke Skywalker, Han Solo, Princess Leia and Chewbacca face attack by the Imperial forces and its AT-AT walkers on the ice planet Hoth. While Han and Leia escape in the Millennium Falcon, Luke travels to Dagobah in search of Yoda. Only with the Jedi master's help will Luke survive when the dark side of the Force beckons him into the ultimate duel with Darth Vader.
+Rotten Tomatoes: =============================================================
+ Score: 94%
+ URL: http://www.rottentomatoes.com/m/empire_strikes_back/
+===============================================================================
+
+User Command: node liri.js movie Mr+Nobody
+OMDB API Results for: Mr+Nobody ====================
+ Movie Title: Mr. Nobody
+ Staring: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+ imdb Rating: 7.9
+ Release Year: 2009
+  -Filmed in: Belgium, Germany, Canada, France, USA, UK
+  -Language: English, Mohawk
+Movie Plot: ==================================================================
+In the year 2092, one hundred eighteen year old Nemo is recounting his life story to a reporter. He is less than clear, often times thinking that he is only thirty-four years of age. But his story becomes more confusing after he does focus on the fact of his current real age. He tells of his life at three primary points in his life: at age nine (when his parents divorced), age sixteen and age thirty-four. The confusing aspect of the story is that he tells of alternate life paths, often changing course with the flick of a decision at each of those ages. One life path has him ultimately married to Elise, a depressed woman who never got over the unrequited love she had for a guy named Stefano when she was a teenager and who asked Nemo to swear that when she died he would sprinkle her ashes on Mars. A second life path has him married to Jean. Their life is one of luxury but one also of utter boredom. And a third life path has him in a torrid romance with his step-sister Anna, the two who, as adults, would search for each other after having been torn apart as teenagers. These life paths also intersect, with the three women sometimes entering the alternate life in some other aspect. Are any of these lives real or are they all a figment of his imagination?
+Rotten Tomatoes: =============================================================
+ Score: 66%
+ URL: http://www.rottentomatoes.com/m/mr-nobody/
+===============================================================================
+
+User Command: node liri.js tweets pattonoswalt
+Tweet #1 By: @pattonoswalt ==========
+
+I am beyond impressed. You were there for less than 11 minutes, and met so many "incredible people". I wish I was a… https://t.co/CKRy6P9vLM
+
+========== Tweeted on: Sun Feb 18 02:45:20 +0000 2018
+
+User Command: node liri.js tweets pattonoswalt
+Tweet #2 By: @pattonoswalt ==========
+
+For your files, @realDonaldTrump. https://t.co/DGdxb9USuZ
+
+========== Tweeted on: Sun Feb 18 02:43:45 +0000 2018
+
+User Command: node liri.js tweets pattonoswalt
+Tweet #3 By: @pattonoswalt ==========
+
+RT @brianklaas: The visual difference between Trump and Obama when talking about or visiting the aftermath of a school shooting is striking…
+
+========== Tweeted on: Sun Feb 18 02:07:02 +0000 2018
+
+User Command: node liri.js tweets pattonoswalt
+Tweet #4 By: @pattonoswalt ==========
+
+RT @jules_su: THEY DID AND YOU REPEALED IT!!! https://t.co/wBRwsqje8E
+
+========== Tweeted on: Sun Feb 18 01:58:19 +0000 2018
+
+User Command: node liri.js tweets pattonoswalt
+Tweet #5 By: @pattonoswalt ==========
+
+RT @TheDweck: You retweeted people asking you to run for president over 200 times in 2013 and 2014 https://t.co/K76atJ64mJ
+
+========== Tweeted on: Sun Feb 18 01:58:13 +0000 2018
+
+User Command: node liri.js tweets pattonoswalt
+Tweet #6 By: @pattonoswalt ==========
+
+Thank you Joel Hodgson for the “Watch Out For Snakes” guns! https://t.co/ELP3dXY02J
+
+========== Tweeted on: Sun Feb 18 01:10:22 +0000 2018
+
+User Command: node liri.js tweets pattonoswalt
+Tweet #7 By: @pattonoswalt ==========
+
+RT @MattOswaltVA: not all heroes wear capes https://t.co/Rpua7VLiUe
+
+========== Tweeted on: Sun Feb 18 00:57:49 +0000 2018
+
+User Command: node liri.js tweets pattonoswalt
+Tweet #8 By: @pattonoswalt ==========
+
+RT @Anarchy_Dog: So this just fucking happened in Ohio https://t.co/SR1kIbJBJY
+
+========== Tweeted on: Sat Feb 17 23:08:01 +0000 2018
+
+User Command: node liri.js tweets pattonoswalt
+Tweet #9 By: @pattonoswalt ==========
+
+RT @NYDailyNews: St. Johns
+Seattle
+Sierra Vista
+San Bernardino
+Denison
+Marshall
+Winston-Salem
+Italy
+Gentilly
+Benton
+Mobile
+Dearborn
+Philade…
+
+========== Tweeted on: Sat Feb 17 20:38:05 +0000 2018
+
+User Command: node liri.js tweets pattonoswalt
+Tweet #10 By: @pattonoswalt ==========
+
+RT @JohnJHarwood: increase in Dow Jones Industrial Average from president's Inauguration Day to Feb 5 of following year:
+--Trump 22.7%
+--Ob…
+
+========== Tweeted on: Sat Feb 17 20:35:58 +0000 2018
+
+User Command: node liri.js tweets pattonoswalt
+Tweet #11 By: @pattonoswalt ==========
+
+RT @krassenstein: FACT: 
+
+Under President Obama the the Dow Jones Industrial average never dropped more than 650 points in a single day.
+
+U…
+
+========== Tweeted on: Sat Feb 17 20:35:52 +0000 2018
+
+User Command: node liri.js tweets pattonoswalt
+Tweet #12 By: @pattonoswalt ==========
+
+RT @NormsRespecter: Conservatives: America has a mental health problem, not a gun problem
+
+Me: so you're saying we should allocate more mon…
+
+========== Tweeted on: Sat Feb 17 20:34:06 +0000 2018
+
+User Command: node liri.js tweets pattonoswalt
+Tweet #13 By: @pattonoswalt ==========
+
+RT @Christie_D22: After Sandy Hook, Obama privately met with the families of each and every victim, hugged them, listened to them. He was t…
+
+========== Tweeted on: Sat Feb 17 20:33:19 +0000 2018
+
+User Command: node liri.js tweets pattonoswalt
+Tweet #14 By: @pattonoswalt ==========
+
+RT @pattymo: Make Meeting On A Dating Site Something To Be Embarrassed About Again https://t.co/24HDEgFySH
+
+========== Tweeted on: Sat Feb 17 19:58:05 +0000 2018
+
+User Command: node liri.js tweets pattonoswalt
+Tweet #15 By: @pattonoswalt ==========
+
+RT @DCLascelle: @BuzzFeedNews @slack2thefuture https://t.co/5y1HKvcfgm
+
+@SpeakerRyan I DARE you to walk into ANY high school auditorium in…
+
+========== Tweeted on: Sat Feb 17 18:53:49 +0000 2018
+
+User Command: node liri.js tweets pattonoswalt
+Tweet #16 By: @pattonoswalt ==========
+
+RT @IronStache: Paul Ryan went to Florida last night, but he didn’t go to support a grieving community. He went to raise money for his poli…
+
+========== Tweeted on: Sat Feb 17 18:53:20 +0000 2018
+
+User Command: node liri.js tweets pattonoswalt
+Tweet #17 By: @pattonoswalt ==========
+
+Spread the word, everyone! https://t.co/YaQsGXuiL4
+
+========== Tweeted on: Sat Feb 17 16:56:28 +0000 2018
+
+User Command: node liri.js tweets pattonoswalt
+Tweet #18 By: @pattonoswalt ==========
+
+RT @KrangTNelson: weird how this keeps happening. now back to my point about how the real problem is college kids who don’t want to have wh…
+
+========== Tweeted on: Sat Feb 17 08:13:33 +0000 2018
+
+User Command: node liri.js tweets pattonoswalt
+Tweet #19 By: @pattonoswalt ==========
+
+Good God. https://t.co/WNjrGxRMqO
+
+========== Tweeted on: Sat Feb 17 08:09:02 +0000 2018
+
+User Command: node liri.js tweets pattonoswalt
+Tweet #20 By: @pattonoswalt ==========
+
+You must have been so excited to spend less than 14 minutes offering zero solutions to traumatized teens who’ll all… https://t.co/kVez6YzuxP
+
+========== Tweeted on: Sat Feb 17 08:01:05 +0000 2018
+
+User Command: node liri.js spotify The+Sign+Ace+of+Base
+Top 10 Spotify result for: The+Sign+Ace+of+Base ============
+#1:
+Song: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: The+Sign+Ace+of+Base ============
+#2:
+Song: All That She Wants
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Url: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: The+Sign+Ace+of+Base ============
+#3:
+Song: The Sign
+Artist: Ace of Base
+Album: Greatest Hits
+Preview Url: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: The+Sign+Ace+of+Base ============
+#4:
+Song: Don't Turn Around
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Url: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: The+Sign+Ace+of+Base ============
+#5:
+Song: Living in Danger
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Url: https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: The+Sign+Ace+of+Base ============
+#6:
+Song: Wheel of Fortune
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Url: https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: The+Sign+Ace+of+Base ============
+#7:
+Song: Young and Proud
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Url: https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: The+Sign+Ace+of+Base ============
+#8:
+Song: Happy Nation
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Url: https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: The+Sign+Ace+of+Base ============
+#9:
+Song: Dancer in a Daydream
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Url: https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: The+Sign+Ace+of+Base ============
+#10:
+Song: The Sign
+Artist: Ace of Base
+Album: Happy Nation (U.S. Version) [Remastered]
+Preview Url: https://p.scdn.co/mp3-preview/02965a67aeec3b3775c91ec1e391ce164c76e488?cid=b28fadab20274c57a40578e8bac3ed14
+
+User Command: node liri.js doIt I+Want+it+That+Way
+Top 10 Spotify result for: I+Want+it+That+Way ============
+#1:
+Song: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: I+Want+it+That+Way ============
+#2:
+Song: I Want It That Way
+Artist: Backstreet Boys
+Album: The Essential Backstreet Boys
+Preview Url: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: I+Want+it+That+Way ============
+#3:
+Song: I Want It That Way
+Artist: Backstreet Boys
+Album: Millennium
+Preview Url: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: I+Want+it+That+Way ============
+#5:
+Song: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Artist: Glee Cast
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview Url: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: I+Want+it+That+Way ============
+#6:
+Song: I Want It That Way
+Artist: Manuel Costa
+Album: I Want It That Way
+Preview Url: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: I+Want+it+That+Way ============
+#7:
+Song: I Want It That Way
+Artist: Backstreet Boys
+Album: 90 Sweet 90s Hits!
+Preview Url: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: I+Want+it+That+Way ============
+#8:
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Artist: "Weird Al" Yankovic
+Album: Poodle Hat
+Preview Url: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: I+Want+it+That+Way ============
+#9:
+Song: I Want It That Way
+Artist: Dynamite Boy
+Album: Punk Goes Pop
+Preview Url: null
+
+Top 10 Spotify result for: I+Want+it+That+Way ============
+#10:
+Song: I Want It That Way
+Artist: Landon Austin & Julia Sheer
+Album: I Want It That Way
+Preview Url: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: I+Want+it+That+Way ============
+#4:
+Song: I Want It That Way
+Artist: Anthem Lights
+Album: Covers Part IV
+Preview Url: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=b28fadab20274c57a40578e8bac3ed14
