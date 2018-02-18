@@ -403,3 +403,254 @@ Song: I Want It That Way
 Artist: Anthem Lights
 Album: Covers Part IV
 Preview Url: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=b28fadab20274c57a40578e8bac3ed14
+
+User Command: node liri.js movie Mr+Nobody
+OMDB API Results for: Mr+Nobody ====================
+ Movie Title: Mr. Nobody
+ Staring: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+ imdb Rating: 7.9
+ Release Year: 2009
+  -Filmed in: Belgium, Germany, Canada, France, USA, UK
+  -Language: English, Mohawk
+Movie Plot: ==================================================================
+In the year 2092, one hundred eighteen year old Nemo is recounting his life story to a reporter. He is less than clear, often times thinking that he is only thirty-four years of age. But his story becomes more confusing after he does focus on the fact of his current real age. He tells of his life at three primary points in his life: at age nine (when his parents divorced), age sixteen and age thirty-four. The confusing aspect of the story is that he tells of alternate life paths, often changing course with the flick of a decision at each of those ages. One life path has him ultimately married to Elise, a depressed woman who never got over the unrequited love she had for a guy named Stefano when she was a teenager and who asked Nemo to swear that when she died he would sprinkle her ashes on Mars. A second life path has him married to Jean. Their life is one of luxury but one also of utter boredom. And a third life path has him in a torrid romance with his step-sister Anna, the two who, as adults, would search for each other after having been torn apart as teenagers. These life paths also intersect, with the three women sometimes entering the alternate life in some other aspect. Are any of these lives real or are they all a figment of his imagination?
+Rotten Tomatoes: =============================================================
+ Score: 66%
+ URL: http://www.rottentomatoes.com/m/mr-nobody/
+===============================================================================
+
+User Command: node liri.js movie Waking+Life
+OMDB API Results for: Waking+Life ====================
+ Movie Title: Waking Life
+ Staring: Trevor Jack Brooks, Lorelei Linklater, Wiley Wiggins, Glover Gill
+ imdb Rating: 7.8
+ Release Year: 2001
+  -Filmed in: USA
+  -Language: English
+Movie Plot: ==================================================================
+Dreams. What are they? An escape from reality or reality itself? Waking Life follows the dream(s) of one man and his attempt to find and discern the absolute difference between waking life and the dreamworld. While trying to figure out a way to wake up, he runs into many people on his way; some of which offer one sentence asides on life, others delving deeply into existential questions and life's mysteries. We become the main character. It becomes our dream and our questions being asked and answered. Can we control our dreams? What are they telling us about life? About death? About ourselves and where we come from and where we are going? The film does not answer all these for us. Instead, it inspires us to ask the questions and find the answers ourselves.
+Rotten Tomatoes: =============================================================
+ Score: 80%
+ URL: http://www.rottentomatoes.com/m/waking_life/
+===============================================================================
+
+User Command: node liri.js doIt I+Want+it+That+Way
+Top 10 Spotify result for: I+Want+it+That+Way ============
+#2:
+Song: I Want It That Way
+Artist: Backstreet Boys
+Album: The Essential Backstreet Boys
+Preview Url: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: I+Want+it+That+Way ============
+#4:
+Song: I Want It That Way
+Artist: Anthem Lights
+Album: Covers Part IV
+Preview Url: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: I+Want+it+That+Way ============
+#5:
+Song: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Artist: Glee Cast
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview Url: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: I+Want+it+That+Way ============
+#6:
+Song: I Want It That Way
+Artist: Manuel Costa
+Album: I Want It That Way
+Preview Url: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: I+Want+it+That+Way ============
+#7:
+Song: I Want It That Way
+Artist: Backstreet Boys
+Album: 90 Sweet 90s Hits!
+Preview Url: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: I+Want+it+That+Way ============
+#1:
+Song: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: I+Want+it+That+Way ============
+#3:
+Song: I Want It That Way
+Artist: Backstreet Boys
+Album: Millennium
+Preview Url: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: I+Want+it+That+Way ============
+#8:
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Artist: "Weird Al" Yankovic
+Album: Poodle Hat
+Preview Url: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: I+Want+it+That+Way ============
+#9:
+Song: I Want It That Way
+Artist: Dynamite Boy
+Album: Punk Goes Pop
+Preview Url: null
+
+Top 10 Spotify result for: I+Want+it+That+Way ============
+#10:
+Song: I Want It That Way
+Artist: Landon Austin & Julia Sheer
+Album: I Want It That Way
+Preview Url: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=b28fadab20274c57a40578e8bac3ed14
+
+User Command: node liri.js spotify Jangling+Jack+Nick+Cave
+Top 10 Spotify result for: Jangling+Jack+Nick+Cave ============
+#1:
+Song: Jangling Jack - 2011 Remastered Version
+Artist: Nick Cave & The Bad Seeds
+Album: Let Love In (2011 Remastered Version)
+Preview Url: https://p.scdn.co/mp3-preview/36b1c5a9dd534bd5c3e2c83792553a23926831c3?cid=b28fadab20274c57a40578e8bac3ed14
+
+User Command: node liri.js tweets NewsAPIorg
+Tweet #1 By: @NewsAPIorg ==========
+
+@BrianHaferkamp Hey Brian. So each request only returns a fixed amount of results (default 20). But usually there's… https://t.co/mzxtaBDoL4
+
+========== Tweeted on: Wed Feb 14 20:49:25 +0000 2018
+
+User Command: node liri.js tweets NewsAPIorg
+Tweet #2 By: @NewsAPIorg ==========
+
+@edisonywh Hi Edison. The top-headlines endpoint only returns the current top headlines. Try the /everything endpoi… https://t.co/EDVOQY0Ahz
+
+========== Tweeted on: Sun Jan 28 03:06:47 +0000 2018
+
+User Command: node liri.js tweets NewsAPIorg
+Tweet #3 By: @NewsAPIorg ==========
+
+@mcknco How did it break yours? What changed?
+
+========== Tweeted on: Thu Jan 11 10:51:37 +0000 2018
+
+User Command: node liri.js tweets NewsAPIorg
+Tweet #4 By: @NewsAPIorg ==========
+
+@mcknco Email scheduled for tomorrow! There shouldn't be any breaking changes though?
+
+========== Tweeted on: Wed Jan 10 23:53:24 +0000 2018
+
+User Command: node liri.js tweets NewsAPIorg
+Tweet #5 By: @NewsAPIorg ==========
+
+@mcknco @martyschneidr If you can make some suggestions, I can add them!
+
+========== Tweeted on: Mon Jan 01 19:20:25 +0000 2018
+
+User Command: node liri.js tweets NewsAPIorg
+Tweet #6 By: @NewsAPIorg ==========
+
+https://t.co/u0N7TWK2EY 🙌🙌🙌
+
+========== Tweeted on: Wed Nov 22 18:20:04 +0000 2017
+
+User Command: node liri.js tweets NewsAPIorg
+Tweet #7 By: @NewsAPIorg ==========
+
+@mattpedigo Hey Matt, is this for the v2/top-headlines endpoint?
+
+========== Tweeted on: Sun Nov 19 23:47:43 +0000 2017
+
+User Command: node liri.js tweets NewsAPIorg
+Tweet #8 By: @NewsAPIorg ==========
+
+@bhim3003 Hello! Yes, 10k/month for developer accounts
+
+========== Tweeted on: Sun Nov 19 05:24:22 +0000 2017
+
+User Command: node liri.js tweets NewsAPIorg
+Tweet #9 By: @NewsAPIorg ==========
+
+@arungaucher1 Now 😉 https://t.co/0tJSPDHhKN
+
+========== Tweeted on: Thu Nov 16 22:14:27 +0000 2017
+
+User Command: node liri.js tweets NewsAPIorg
+Tweet #10 By: @NewsAPIorg ==========
+
+@blabr_me Sorry, not yet 😋
+
+========== Tweeted on: Thu Nov 16 16:27:57 +0000 2017
+
+User Command: node liri.js tweets NewsAPIorg
+Tweet #11 By: @NewsAPIorg ==========
+
+@CEHAshwinkapes https://t.co/ay2qafBHsj
+
+========== Tweeted on: Tue Nov 14 21:52:46 +0000 2017
+
+User Command: node liri.js tweets NewsAPIorg
+Tweet #12 By: @NewsAPIorg ==========
+
+@capitolcall Politico is up now here: https://t.co/klNNM3uFJ4
+
+Feel free to send over any more suggestions 😉
+
+========== Tweeted on: Tue Nov 14 20:10:44 +0000 2017
+
+User Command: node liri.js tweets NewsAPIorg
+Tweet #13 By: @NewsAPIorg ==========
+
+@capitolcall Gotcha. That's a long way off unfortunately. How about if we add more politics-only sources?
+
+========== Tweeted on: Tue Oct 31 19:28:46 +0000 2017
+
+User Command: node liri.js tweets NewsAPIorg
+Tweet #14 By: @NewsAPIorg ==========
+
+@capitolcall Is your use case to be able to get ALL articles that are politics related?
+
+========== Tweeted on: Tue Oct 31 15:47:29 +0000 2017
+
+User Command: node liri.js tweets NewsAPIorg
+Tweet #15 By: @NewsAPIorg ==========
+
+@Bill_Huizenga Maybe in the future but that's hard for our tech to do right now, sorry
+
+========== Tweeted on: Sun Oct 29 10:37:32 +0000 2017
+
+User Command: node liri.js tweets NewsAPIorg
+Tweet #16 By: @NewsAPIorg ==========
+
+@Mars1982Ltd Yep 😁 https://t.co/mhdNerof3M
+
+========== Tweeted on: Sun Oct 22 14:36:20 +0000 2017
+
+User Command: node liri.js tweets NewsAPIorg
+Tweet #17 By: @NewsAPIorg ==========
+
+@VictoriaVoitkun ...done!
+
+========== Tweeted on: Mon Oct 16 12:04:32 +0000 2017
+
+User Command: node liri.js tweets NewsAPIorg
+Tweet #18 By: @NewsAPIorg ==========
+
+@VictoriaVoitkun Thanks Victoria - will fix asap
+
+========== Tweeted on: Mon Oct 16 11:46:39 +0000 2017
+
+User Command: node liri.js tweets NewsAPIorg
+Tweet #19 By: @NewsAPIorg ==========
+
+@droptablemain Not right now 😀
+
+========== Tweeted on: Mon Oct 16 11:45:47 +0000 2017
+
+User Command: node liri.js tweets NewsAPIorg
+Tweet #20 By: @NewsAPIorg ==========
+
+@Christoffair It's definitely on the roadmap Christopher. No eta right now though.
+
+========== Tweeted on: Tue Oct 10 19:59:09 +0000 2017

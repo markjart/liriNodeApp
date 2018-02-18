@@ -87,7 +87,7 @@ function movieZilla(functionData) {
 			var jsonData = JSON.parse(body);
 			updateLogCmd(caseData, functionData);
 			results = 
-				"\nOMDB API Results for: " + functionData + 
+				"\nOMDb API Results for: " + functionData + 
 				" ====================" +  
 				"\n Movie Title: " + jsonData.Title +
 				"\n Staring: " + jsonData.Actors + 
@@ -110,7 +110,7 @@ function movieZilla(functionData) {
 
 //tweetZilla takes inputs in the form:
 //node liri.js tweets <twitterUserName> or <@twitterUserName> or <LEAVE BLANK> for tweets from @markjart.
-//NOTE: I changed the commands (my-tweets is now just "tweets" - no quotes) because I, and my LIRI, hate dashes.
+//NOTE: I changed the commands (my-tweets is now just "tweets" - no quotes) because I, and my LIRI... ...are you seeing a theme?
 function tweetZilla(functionData){
 		if(!functionData){
 			functionData = "markjart";
@@ -134,8 +134,7 @@ function tweetZilla(functionData){
 	});
 };
 
-/*doZilla takes inputs in the form: node liri.js doIt, which, in turn, will read the information in random.txt as <command,"title or userName"> which will call the appropriate function and pass the data provided (Examples: spotify,"I Want it That Way" || movie,"The Right Stuff" || tweets,"@pattonoswalt").
-NOTE: I changed the commands (do-what-it-says is now "doItToIt" - no quotes) because I, and my LIRI, hate dashes.*/
+/*doZilla takes inputs in the form: node liri.js doIt, which, in turn, will read the information in random.txt as <command,"title or userName"> which will call the appropriate function and pass the data provided (Examples: spotify,"I Want it That Way" || movie,"The Right Stuff" || tweets,"@pattonoswalt").  NOTE: I changed the commands (do-what-it-says is now "doIt" - no quotes) because ... you know the rest.*/
 function doZilla() {
 	fs.readFile("random.txt", "utf8", function(error, readIt){
 		if (!error) {
