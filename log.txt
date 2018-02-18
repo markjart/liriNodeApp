@@ -1,266 +1,203 @@
 
-User Command: node liri.js spotify What+About+Us
-Top 10 Spotify result for: What+About+Us ============
-#1:
-Song: What About Us
-Artist: P!nk
-Album: Beautiful Trauma
-Preview Url: https://p.scdn.co/mp3-preview/b97d90c4adf9386281985180edf7c7940e8908cb?cid=b28fadab20274c57a40578e8bac3ed14
-
-Top 10 Spotify result for: What+About+Us ============
-#2:
-Song: What About Us
-Artist: Davina Michelle
-Album: What About Us
-Preview Url: https://p.scdn.co/mp3-preview/ef0350add282cecd9852474b507e934ecd4599f0?cid=b28fadab20274c57a40578e8bac3ed14
-
-Top 10 Spotify result for: What+About+Us ============
-#4:
-Song: What About Us
-Artist: Kidz Bop Kids
-Album: KIDZ BOP 37
-Preview Url: null
-
-Top 10 Spotify result for: What+About+Us ============
-#3:
-Song: What About Us - Cash Cash Remix
-Artist: P!nk
-Album: What About Us (The Remixes)
-Preview Url: https://p.scdn.co/mp3-preview/b212eda4c433dfc64d122476d3a38a99fa573ab7?cid=b28fadab20274c57a40578e8bac3ed14
-
-Top 10 Spotify result for: What+About+Us ============
-#7:
-Song: What About Us
-Artist: Kalpee
-Album: What About Us
-Preview Url: https://p.scdn.co/mp3-preview/4707fa9612fd4e11906a9b54e0ca0e4de36c2148?cid=b28fadab20274c57a40578e8bac3ed14
-
-Top 10 Spotify result for: What+About+Us ============
-#6:
-Song: What About Us
-Artist: Flume
-Album: Lockjaw
-Preview Url: null
-
-Top 10 Spotify result for: What+About+Us ============
-#5:
-Song: What About Us
-Artist: The Saturdays
-Album: Living For The Weekend (Deluxe Edition)
-Preview Url: null
-
-Top 10 Spotify result for: What+About+Us ============
-#9:
-Song: What Is It About Men
-Artist: Amy Winehouse
-Album: Frank (US e-Version)
-Preview Url: null
-
-Top 10 Spotify result for: What+About+Us ============
-#10:
-Song: What About Us - Tiësto's AFTR:HRS Remix
-Artist: P!nk
-Album: What About Us (Tiësto's AFTR:HRS Remix)
-Preview Url: https://p.scdn.co/mp3-preview/08970e3b0daa3fe2a12147c912e2cc0a99007c55?cid=b28fadab20274c57a40578e8bac3ed14
-
-Top 10 Spotify result for: What+About+Us ============
-#8:
-Song: What About Us
-Artist: Jodeci
-Album: Diary Of A Mad Band
-Preview Url: null
-
-User Command: node liri.js movie The+Empire+Strikes+Back
-OMDB API Results for: The+Empire+Strikes+Back ====================
- Movie Title: Star Wars: Episode V - The Empire Strikes Back
- Staring: Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams
- imdb Rating: 8.8
- Release Year: 1980
-  -Filmed in: USA
-  -Language: English
-Movie Plot: ==================================================================
-Luke Skywalker, Han Solo, Princess Leia and Chewbacca face attack by the Imperial forces and its AT-AT walkers on the ice planet Hoth. While Han and Leia escape in the Millennium Falcon, Luke travels to Dagobah in search of Yoda. Only with the Jedi master's help will Luke survive when the dark side of the Force beckons him into the ultimate duel with Darth Vader.
-Rotten Tomatoes: =============================================================
- Score: 94%
- URL: http://www.rottentomatoes.com/m/empire_strikes_back/
-===============================================================================
-
-User Command: node liri.js movie Mr+Nobody
-OMDB API Results for: Mr+Nobody ====================
- Movie Title: Mr. Nobody
- Staring: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
- imdb Rating: 7.9
- Release Year: 2009
-  -Filmed in: Belgium, Germany, Canada, France, USA, UK
-  -Language: English, Mohawk
-Movie Plot: ==================================================================
-In the year 2092, one hundred eighteen year old Nemo is recounting his life story to a reporter. He is less than clear, often times thinking that he is only thirty-four years of age. But his story becomes more confusing after he does focus on the fact of his current real age. He tells of his life at three primary points in his life: at age nine (when his parents divorced), age sixteen and age thirty-four. The confusing aspect of the story is that he tells of alternate life paths, often changing course with the flick of a decision at each of those ages. One life path has him ultimately married to Elise, a depressed woman who never got over the unrequited love she had for a guy named Stefano when she was a teenager and who asked Nemo to swear that when she died he would sprinkle her ashes on Mars. A second life path has him married to Jean. Their life is one of luxury but one also of utter boredom. And a third life path has him in a torrid romance with his step-sister Anna, the two who, as adults, would search for each other after having been torn apart as teenagers. These life paths also intersect, with the three women sometimes entering the alternate life in some other aspect. Are any of these lives real or are they all a figment of his imagination?
-Rotten Tomatoes: =============================================================
- Score: 66%
- URL: http://www.rottentomatoes.com/m/mr-nobody/
-===============================================================================
-
-User Command: node liri.js tweets pattonoswalt
-Tweet #1 By: @pattonoswalt ==========
+User Command: node liri.js tweets markjart
+Tweet #1 By: @markjart ==========
 
-I am beyond impressed. You were there for less than 11 minutes, and met so many "incredible people". I wish I was a… https://t.co/CKRy6P9vLM
+#safetypins https://t.co/PtXM4vcIvI
 
-========== Tweeted on: Sun Feb 18 02:45:20 +0000 2018
+========== Tweeted on: Sat Nov 12 17:24:06 +0000 2016
 
-User Command: node liri.js tweets pattonoswalt
-Tweet #2 By: @pattonoswalt ==========
+User Command: node liri.js tweets markjart
+Tweet #2 By: @markjart ==========
 
-For your files, @realDonaldTrump. https://t.co/DGdxb9USuZ
+RT @TheDemocrats: Donald doesn't respect women. Not one bit. #debatenight https://t.co/p6OwRqdCLl
 
-========== Tweeted on: Sun Feb 18 02:43:45 +0000 2018
+========== Tweeted on: Tue Sep 27 02:57:32 +0000 2016
 
-User Command: node liri.js tweets pattonoswalt
-Tweet #3 By: @pattonoswalt ==========
+User Command: node liri.js tweets markjart
+Tweet #3 By: @markjart ==========
 
-RT @brianklaas: The visual difference between Trump and Obama when talking about or visiting the aftermath of a school shooting is striking…
+RT @WhatsTrending: A live look inside Donald's brain rn. #debatenight https://t.co/rE7RgDse0i
 
-========== Tweeted on: Sun Feb 18 02:07:02 +0000 2018
+========== Tweeted on: Tue Sep 27 02:27:50 +0000 2016
 
-User Command: node liri.js tweets pattonoswalt
-Tweet #4 By: @pattonoswalt ==========
+User Command: node liri.js tweets markjart
+Tweet #4 By: @markjart ==========
 
-RT @jules_su: THEY DID AND YOU REPEALED IT!!! https://t.co/wBRwsqje8E
+the myth of stillness fills me
+as motion's truth eludes me - 
+a speck upon the earth.
+the earth, a speck upon the sky.
 
-========== Tweeted on: Sun Feb 18 01:58:19 +0000 2018
+========== Tweeted on: Fri Jan 29 19:50:22 +0000 2016
 
-User Command: node liri.js tweets pattonoswalt
-Tweet #5 By: @pattonoswalt ==========
+User Command: node liri.js tweets markjart
+Tweet #5 By: @markjart ==========
 
-RT @TheDweck: You retweeted people asking you to run for president over 200 times in 2013 and 2014 https://t.co/K76atJ64mJ
+https://t.co/hCFt7RmUay
 
-========== Tweeted on: Sun Feb 18 01:58:13 +0000 2018
+========== Tweeted on: Fri Nov 27 00:29:42 +0000 2015
 
-User Command: node liri.js tweets pattonoswalt
-Tweet #6 By: @pattonoswalt ==========
+User Command: node liri.js tweets markjart
+Tweet #6 By: @markjart ==========
 
-Thank you Joel Hodgson for the “Watch Out For Snakes” guns! https://t.co/ELP3dXY02J
+hearts are worn by time, 
+yet weigh us down
+the more they dissolve.
+oh,  this universe
+of irony; of entropy.
 
-========== Tweeted on: Sun Feb 18 01:10:22 +0000 2018
+========== Tweeted on: Sun Nov 15 19:19:41 +0000 2015
 
-User Command: node liri.js tweets pattonoswalt
-Tweet #7 By: @pattonoswalt ==========
+User Command: node liri.js tweets markjart
+Tweet #7 By: @markjart ==========
 
-RT @MattOswaltVA: not all heroes wear capes https://t.co/Rpua7VLiUe
+Soft kitty, Evil Kitty,
+Fangs and claws and fur.
+Sleepy kitty, startled kitty,
+Whir, whir, whir! #SoftKittyWarmKitty https://t.co/MZPnrzFfOe
 
-========== Tweeted on: Sun Feb 18 00:57:49 +0000 2018
+========== Tweeted on: Sun Nov 08 03:08:45 +0000 2015
 
-User Command: node liri.js tweets pattonoswalt
-Tweet #8 By: @pattonoswalt ==========
+User Command: node liri.js tweets markjart
+Tweet #8 By: @markjart ==========
 
-RT @Anarchy_Dog: So this just fucking happened in Ohio https://t.co/SR1kIbJBJY
+mark jasinski - poet-american: dear mrs. or mr. president, https://t.co/XF5tPijQrj
 
-========== Tweeted on: Sat Feb 17 23:08:01 +0000 2018
+========== Tweeted on: Thu Nov 05 04:34:50 +0000 2015
 
-User Command: node liri.js tweets pattonoswalt
-Tweet #9 By: @pattonoswalt ==========
+User Command: node liri.js tweets markjart
+Tweet #9 By: @markjart ==========
 
-RT @NYDailyNews: St. Johns
-Seattle
-Sierra Vista
-San Bernardino
-Denison
-Marshall
-Winston-Salem
-Italy
-Gentilly
-Benton
-Mobile
-Dearborn
-Philade…
+angles
 
-========== Tweeted on: Sat Feb 17 20:38:05 +0000 2018
+i often dream of angels
+living right here on the earth,
+living like the rest of us --
+buried in their own self-worth.
 
-User Command: node liri.js tweets pattonoswalt
-Tweet #10 By: @pattonoswalt ==========
+========== Tweeted on: Sat Oct 31 04:41:53 +0000 2015
 
-RT @JohnJHarwood: increase in Dow Jones Industrial Average from president's Inauguration Day to Feb 5 of following year:
---Trump 22.7%
---Ob…
+User Command: node liri.js tweets markjart
+Tweet #10 By: @markjart ==========
 
-========== Tweeted on: Sat Feb 17 20:35:58 +0000 2018
+second death
 
-User Command: node liri.js tweets pattonoswalt
-Tweet #11 By: @pattonoswalt ==========
+i misunderstood the words hanging from her breath.
+her tears were my rebirth – my lack, her second death.
 
-RT @krassenstein: FACT: 
+========== Tweeted on: Sat Oct 31 04:34:42 +0000 2015
 
-Under President Obama the the Dow Jones Industrial average never dropped more than 650 points in a single day.
+User Command: node liri.js tweets markjart
+Tweet #11 By: @markjart ==========
 
-U…
+https://t.co/5qeKbEGBqc
 
-========== Tweeted on: Sat Feb 17 20:35:52 +0000 2018
+========== Tweeted on: Fri Oct 30 22:57:57 +0000 2015
 
-User Command: node liri.js tweets pattonoswalt
-Tweet #12 By: @pattonoswalt ==========
+User Command: node liri.js tweets markjart
+Tweet #12 By: @markjart ==========
 
-RT @NormsRespecter: Conservatives: America has a mental health problem, not a gun problem
+in me i see you be through me to be set free of me to be you
 
-Me: so you're saying we should allocate more mon…
+========== Tweeted on: Fri Oct 30 22:47:05 +0000 2015
 
-========== Tweeted on: Sat Feb 17 20:34:06 +0000 2018
+User Command: node liri.js tweets markjart
+Tweet #13 By: @markjart ==========
 
-User Command: node liri.js tweets pattonoswalt
-Tweet #13 By: @pattonoswalt ==========
+in time the land
+ebbs and flows as water,
+ever moving—still.
 
-RT @Christie_D22: After Sandy Hook, Obama privately met with the families of each and every victim, hugged them, listened to them. He was t…
+--
 
-========== Tweeted on: Sat Feb 17 20:33:19 +0000 2018
+Sinatra sings.
+i build my silence high.
+he climbs over.
 
-User Command: node liri.js tweets pattonoswalt
-Tweet #14 By: @pattonoswalt ==========
+========== Tweeted on: Fri Oct 30 22:09:57 +0000 2015
 
-RT @pattymo: Make Meeting On A Dating Site Something To Be Embarrassed About Again https://t.co/24HDEgFySH
+User Command: node liri.js tweets markjart
+Tweet #14 By: @markjart ==========
 
-========== Tweeted on: Sat Feb 17 19:58:05 +0000 2018
+wander
 
-User Command: node liri.js tweets pattonoswalt
-Tweet #15 By: @pattonoswalt ==========
+if your heart begins to wander
+go with it, you may grow fonder
+of the path that it has taken
+from the one you have mistaken.
+wander.
 
-RT @DCLascelle: @BuzzFeedNews @slack2thefuture https://t.co/5y1HKvcfgm
+========== Tweeted on: Fri Oct 30 22:06:55 +0000 2015
 
-@SpeakerRyan I DARE you to walk into ANY high school auditorium in…
+User Command: node liri.js tweets markjart
+Tweet #15 By: @markjart ==========
 
-========== Tweeted on: Sat Feb 17 18:53:49 +0000 2018
+we hug when we meet,
+stillness becomes the moment,
+your heart beats in me.
 
-User Command: node liri.js tweets pattonoswalt
-Tweet #16 By: @pattonoswalt ==========
+========== Tweeted on: Wed Oct 28 23:42:59 +0000 2015
 
-RT @IronStache: Paul Ryan went to Florida last night, but he didn’t go to support a grieving community. He went to raise money for his poli…
+User Command: node liri.js tweets markjart
+Tweet #16 By: @markjart ==========
 
-========== Tweeted on: Sat Feb 17 18:53:20 +0000 2018
+clouds dance with partners
+blue sky, as wallflower, waits
+asked not once to dance.
 
-User Command: node liri.js tweets pattonoswalt
-Tweet #17 By: @pattonoswalt ==========
+========== Tweeted on: Wed Oct 28 23:41:54 +0000 2015
 
-Spread the word, everyone! https://t.co/YaQsGXuiL4
+User Command: node liri.js tweets markjart
+Tweet #17 By: @markjart ==========
 
-========== Tweeted on: Sat Feb 17 16:56:28 +0000 2018
+she fills me
+the way
 
-User Command: node liri.js tweets pattonoswalt
-Tweet #18 By: @pattonoswalt ==========
+the fragrance
+of roses
 
-RT @KrangTNelson: weird how this keeps happening. now back to my point about how the real problem is college kids who don’t want to have wh…
+fills a
+sunlit room
 
-========== Tweeted on: Sat Feb 17 08:13:33 +0000 2018
+through an open window
+above a never noticed garden.
 
-User Command: node liri.js tweets pattonoswalt
-Tweet #19 By: @pattonoswalt ==========
+========== Tweeted on: Wed Oct 28 23:39:12 +0000 2015
 
-Good God. https://t.co/WNjrGxRMqO
+User Command: node liri.js tweets markjart
+Tweet #18 By: @markjart ==========
 
-========== Tweeted on: Sat Feb 17 08:09:02 +0000 2018
+i met a shadow
+who danced with me
+and slipped between the lines
+of what i know
+and what i see
+and the limits they define.
 
-User Command: node liri.js tweets pattonoswalt
-Tweet #20 By: @pattonoswalt ==========
+========== Tweeted on: Fri Oct 23 06:05:27 +0000 2015
 
-You must have been so excited to spend less than 14 minutes offering zero solutions to traumatized teens who’ll all… https://t.co/kVez6YzuxP
+User Command: node liri.js tweets markjart
+Tweet #19 By: @markjart ==========
 
-========== Tweeted on: Sat Feb 17 08:01:05 +0000 2018
+alone in the dark
+
+why 
+do 
+we 
+have 
+dreams 
+alone in the dark
+
+when 
+where 
+they 
+belong 
+is
+in
+a crowd in the light 
+?
+
+========== Tweeted on: Fri Oct 23 04:51:28 +0000 2015
 
 User Command: node liri.js spotify The+Sign+Ace+of+Base
 Top 10 Spotify result for: The+Sign+Ace+of+Base ============
@@ -278,25 +215,18 @@ Album: The Sign (US Album) [Remastered]
 Preview Url: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=b28fadab20274c57a40578e8bac3ed14
 
 Top 10 Spotify result for: The+Sign+Ace+of+Base ============
-#3:
-Song: The Sign
-Artist: Ace of Base
-Album: Greatest Hits
-Preview Url: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=b28fadab20274c57a40578e8bac3ed14
-
-Top 10 Spotify result for: The+Sign+Ace+of+Base ============
-#4:
-Song: Don't Turn Around
-Artist: Ace of Base
-Album: The Sign (US Album) [Remastered]
-Preview Url: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=b28fadab20274c57a40578e8bac3ed14
-
-Top 10 Spotify result for: The+Sign+Ace+of+Base ============
 #5:
 Song: Living in Danger
 Artist: Ace of Base
 Album: The Sign (US Album) [Remastered]
 Preview Url: https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: The+Sign+Ace+of+Base ============
+#3:
+Song: The Sign
+Artist: Ace of Base
+Album: Greatest Hits
+Preview Url: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=b28fadab20274c57a40578e8bac3ed14
 
 Top 10 Spotify result for: The+Sign+Ace+of+Base ============
 #6:
@@ -306,18 +236,18 @@ Album: The Sign (US Album) [Remastered]
 Preview Url: https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=b28fadab20274c57a40578e8bac3ed14
 
 Top 10 Spotify result for: The+Sign+Ace+of+Base ============
+#4:
+Song: Don't Turn Around
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Url: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: The+Sign+Ace+of+Base ============
 #7:
 Song: Young and Proud
 Artist: Ace of Base
 Album: The Sign (US Album) [Remastered]
 Preview Url: https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=b28fadab20274c57a40578e8bac3ed14
-
-Top 10 Spotify result for: The+Sign+Ace+of+Base ============
-#8:
-Song: Happy Nation
-Artist: Ace of Base
-Album: The Sign (US Album) [Remastered]
-Preview Url: https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=b28fadab20274c57a40578e8bac3ed14
 
 Top 10 Spotify result for: The+Sign+Ace+of+Base ============
 #9:
@@ -333,79 +263,15 @@ Artist: Ace of Base
 Album: Happy Nation (U.S. Version) [Remastered]
 Preview Url: https://p.scdn.co/mp3-preview/02965a67aeec3b3775c91ec1e391ce164c76e488?cid=b28fadab20274c57a40578e8bac3ed14
 
-User Command: node liri.js doIt I+Want+it+That+Way
-Top 10 Spotify result for: I+Want+it+That+Way ============
-#1:
-Song: I Want It That Way
-Artist: Backstreet Boys
-Album: The Hits--Chapter One
-Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=b28fadab20274c57a40578e8bac3ed14
-
-Top 10 Spotify result for: I+Want+it+That+Way ============
-#2:
-Song: I Want It That Way
-Artist: Backstreet Boys
-Album: The Essential Backstreet Boys
-Preview Url: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=b28fadab20274c57a40578e8bac3ed14
-
-Top 10 Spotify result for: I+Want+it+That+Way ============
-#3:
-Song: I Want It That Way
-Artist: Backstreet Boys
-Album: Millennium
-Preview Url: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=b28fadab20274c57a40578e8bac3ed14
-
-Top 10 Spotify result for: I+Want+it+That+Way ============
-#5:
-Song: Bye Bye Bye / I Want It That Way (Glee Cast Version)
-Artist: Glee Cast
-Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
-Preview Url: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=b28fadab20274c57a40578e8bac3ed14
-
-Top 10 Spotify result for: I+Want+it+That+Way ============
-#6:
-Song: I Want It That Way
-Artist: Manuel Costa
-Album: I Want It That Way
-Preview Url: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=b28fadab20274c57a40578e8bac3ed14
-
-Top 10 Spotify result for: I+Want+it+That+Way ============
-#7:
-Song: I Want It That Way
-Artist: Backstreet Boys
-Album: 90 Sweet 90s Hits!
-Preview Url: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=b28fadab20274c57a40578e8bac3ed14
-
-Top 10 Spotify result for: I+Want+it+That+Way ============
+Top 10 Spotify result for: The+Sign+Ace+of+Base ============
 #8:
-Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
-Artist: "Weird Al" Yankovic
-Album: Poodle Hat
-Preview Url: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=b28fadab20274c57a40578e8bac3ed14
-
-Top 10 Spotify result for: I+Want+it+That+Way ============
-#9:
-Song: I Want It That Way
-Artist: Dynamite Boy
-Album: Punk Goes Pop
-Preview Url: null
-
-Top 10 Spotify result for: I+Want+it+That+Way ============
-#10:
-Song: I Want It That Way
-Artist: Landon Austin & Julia Sheer
-Album: I Want It That Way
-Preview Url: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=b28fadab20274c57a40578e8bac3ed14
-
-Top 10 Spotify result for: I+Want+it+That+Way ============
-#4:
-Song: I Want It That Way
-Artist: Anthem Lights
-Album: Covers Part IV
-Preview Url: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=b28fadab20274c57a40578e8bac3ed14
+Song: Happy Nation
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Url: https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=b28fadab20274c57a40578e8bac3ed14
 
 User Command: node liri.js movie Mr+Nobody
-OMDB API Results for: Mr+Nobody ====================
+OMDb API Results for: Mr+Nobody ====================
  Movie Title: Mr. Nobody
  Staring: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
  imdb Rating: 7.9
@@ -419,35 +285,20 @@ Rotten Tomatoes: =============================================================
  URL: http://www.rottentomatoes.com/m/mr-nobody/
 ===============================================================================
 
-User Command: node liri.js movie Waking+Life
-OMDB API Results for: Waking+Life ====================
- Movie Title: Waking Life
- Staring: Trevor Jack Brooks, Lorelei Linklater, Wiley Wiggins, Glover Gill
- imdb Rating: 7.8
- Release Year: 2001
-  -Filmed in: USA
-  -Language: English
-Movie Plot: ==================================================================
-Dreams. What are they? An escape from reality or reality itself? Waking Life follows the dream(s) of one man and his attempt to find and discern the absolute difference between waking life and the dreamworld. While trying to figure out a way to wake up, he runs into many people on his way; some of which offer one sentence asides on life, others delving deeply into existential questions and life's mysteries. We become the main character. It becomes our dream and our questions being asked and answered. Can we control our dreams? What are they telling us about life? About death? About ourselves and where we come from and where we are going? The film does not answer all these for us. Instead, it inspires us to ask the questions and find the answers ourselves.
-Rotten Tomatoes: =============================================================
- Score: 80%
- URL: http://www.rottentomatoes.com/m/waking_life/
-===============================================================================
-
 User Command: node liri.js doIt I+Want+it+That+Way
+Top 10 Spotify result for: I+Want+it+That+Way ============
+#1:
+Song: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=b28fadab20274c57a40578e8bac3ed14
+
 Top 10 Spotify result for: I+Want+it+That+Way ============
 #2:
 Song: I Want It That Way
 Artist: Backstreet Boys
 Album: The Essential Backstreet Boys
 Preview Url: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=b28fadab20274c57a40578e8bac3ed14
-
-Top 10 Spotify result for: I+Want+it+That+Way ============
-#4:
-Song: I Want It That Way
-Artist: Anthem Lights
-Album: Covers Part IV
-Preview Url: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=b28fadab20274c57a40578e8bac3ed14
 
 Top 10 Spotify result for: I+Want+it+That+Way ============
 #5:
@@ -464,25 +315,18 @@ Album: I Want It That Way
 Preview Url: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=b28fadab20274c57a40578e8bac3ed14
 
 Top 10 Spotify result for: I+Want+it+That+Way ============
-#7:
-Song: I Want It That Way
-Artist: Backstreet Boys
-Album: 90 Sweet 90s Hits!
-Preview Url: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=b28fadab20274c57a40578e8bac3ed14
-
-Top 10 Spotify result for: I+Want+it+That+Way ============
-#1:
-Song: I Want It That Way
-Artist: Backstreet Boys
-Album: The Hits--Chapter One
-Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=b28fadab20274c57a40578e8bac3ed14
-
-Top 10 Spotify result for: I+Want+it+That+Way ============
 #3:
 Song: I Want It That Way
 Artist: Backstreet Boys
 Album: Millennium
 Preview Url: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=b28fadab20274c57a40578e8bac3ed14
+
+Top 10 Spotify result for: I+Want+it+That+Way ============
+#7:
+Song: I Want It That Way
+Artist: Backstreet Boys
+Album: 90 Sweet 90s Hits!
+Preview Url: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=b28fadab20274c57a40578e8bac3ed14
 
 Top 10 Spotify result for: I+Want+it+That+Way ============
 #8:
@@ -492,11 +336,11 @@ Album: Poodle Hat
 Preview Url: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=b28fadab20274c57a40578e8bac3ed14
 
 Top 10 Spotify result for: I+Want+it+That+Way ============
-#9:
+#4:
 Song: I Want It That Way
-Artist: Dynamite Boy
-Album: Punk Goes Pop
-Preview Url: null
+Artist: Anthem Lights
+Album: Covers Part IV
+Preview Url: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=b28fadab20274c57a40578e8bac3ed14
 
 Top 10 Spotify result for: I+Want+it+That+Way ============
 #10:
@@ -505,152 +349,197 @@ Artist: Landon Austin & Julia Sheer
 Album: I Want It That Way
 Preview Url: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=b28fadab20274c57a40578e8bac3ed14
 
-User Command: node liri.js spotify Jangling+Jack+Nick+Cave
-Top 10 Spotify result for: Jangling+Jack+Nick+Cave ============
+Top 10 Spotify result for: I+Want+it+That+Way ============
+#9:
+Song: I Want It That Way
+Artist: Dynamite Boy
+Album: Punk Goes Pop
+Preview Url: null
+
+User Command: node liri.js movie The+Quiet+Man
+OMDb API Results for: The+Quiet+Man ====================
+ Movie Title: The Quiet Man
+ Staring: John Wayne, Maureen O'Hara, Barry Fitzgerald, Ward Bond
+ imdb Rating: 7.9
+ Release Year: 1952
+  -Filmed in: USA
+  -Language: English, Irish
+Movie Plot: ==================================================================
+Sean Thornton has returned from America to reclaim his homestead and escape his past. Sean's eye is caught by Mary Kate Danaher, a beautiful but poor maiden, and younger sister of ill-tempered "Red" Will Danaher. The riotous relationship that forms between Sean and Mary Kate, punctuated by Will's pugnacious attempts to keep them apart, form the main plot, with Sean's past as the dark undercurrent.
+Rotten Tomatoes: =============================================================
+ Score: 90%
+ URL: http://www.rottentomatoes.com/m/quiet_man/
+===============================================================================
+
+User Command: node liri.js movie Forbidden+Planet
+OMDb API Results for: Forbidden+Planet ====================
+ Movie Title: Forbidden Planet
+ Staring: Walter Pidgeon, Anne Francis, Leslie Nielsen, Warren Stevens
+ imdb Rating: 7.7
+ Release Year: 1956
+  -Filmed in: USA
+  -Language: English
+Movie Plot: ==================================================================
+When Adams and his crew are sent to investigate the silence from a planet inhabited by scientists, he finds all but two have died. Dr. Morbius and his daughter Altaira have somehow survived a hideous monster which roams the planet. Unknown to Adams, Morbius has made a discovery, and has no intention of sharing it (or his daughter!) with anyone.
+Rotten Tomatoes: =============================================================
+ Score: 98%
+ URL: http://www.rottentomatoes.com/m/9400/
+===============================================================================
+
+User Command: node liri.js spotify As+I+Sat+Sadly+By+Her+Side+Nick+Cave
+Top 10 Spotify result for: As+I+Sat+Sadly+By+Her+Side+Nick+Cave ============
 #1:
-Song: Jangling Jack - 2011 Remastered Version
+Song: As I Sat Sadly By Her Side - 2011 Remastered Version
 Artist: Nick Cave & The Bad Seeds
-Album: Let Love In (2011 Remastered Version)
-Preview Url: https://p.scdn.co/mp3-preview/36b1c5a9dd534bd5c3e2c83792553a23926831c3?cid=b28fadab20274c57a40578e8bac3ed14
+Album: No More Shall We Part (2011 Remastered Version)
+Preview Url: https://p.scdn.co/mp3-preview/7548de70f76efb10ee670c924c2af4b38e7d2a7c?cid=b28fadab20274c57a40578e8bac3ed14
 
-User Command: node liri.js tweets NewsAPIorg
-Tweet #1 By: @NewsAPIorg ==========
+User Command: node liri.js tweets bessbell
+Tweet #1 By: @bessbell ==========
 
-@BrianHaferkamp Hey Brian. So each request only returns a fixed amount of results (default 20). But usually there's… https://t.co/mzxtaBDoL4
+@conejodems Cool!
 
-========== Tweeted on: Wed Feb 14 20:49:25 +0000 2018
+========== Tweeted on: Sat Feb 17 23:48:24 +0000 2018
 
-User Command: node liri.js tweets NewsAPIorg
-Tweet #2 By: @NewsAPIorg ==========
+User Command: node liri.js tweets bessbell
+Tweet #2 By: @bessbell ==========
 
-@edisonywh Hi Edison. The top-headlines endpoint only returns the current top headlines. Try the /everything endpoi… https://t.co/EDVOQY0Ahz
+@AuxiIia @ersatzbruce Cool
 
-========== Tweeted on: Sun Jan 28 03:06:47 +0000 2018
+========== Tweeted on: Sat Feb 17 23:47:45 +0000 2018
 
-User Command: node liri.js tweets NewsAPIorg
-Tweet #3 By: @NewsAPIorg ==========
+User Command: node liri.js tweets bessbell
+Tweet #3 By: @bessbell ==========
 
-@mcknco How did it break yours? What changed?
+@OhTheStatic K
 
-========== Tweeted on: Thu Jan 11 10:51:37 +0000 2018
+========== Tweeted on: Sat Feb 17 21:04:19 +0000 2018
 
-User Command: node liri.js tweets NewsAPIorg
-Tweet #4 By: @NewsAPIorg ==========
+User Command: node liri.js tweets bessbell
+Tweet #4 By: @bessbell ==========
 
-@mcknco Email scheduled for tomorrow! There shouldn't be any breaking changes though?
+@ersatzbruce I'm much more interested in what YOU want him to say.
 
-========== Tweeted on: Wed Jan 10 23:53:24 +0000 2018
+========== Tweeted on: Sat Feb 17 20:34:05 +0000 2018
 
-User Command: node liri.js tweets NewsAPIorg
-Tweet #5 By: @NewsAPIorg ==========
+User Command: node liri.js tweets bessbell
+Tweet #5 By: @bessbell ==========
 
-@mcknco @martyschneidr If you can make some suggestions, I can add them!
+Having tweeted this, I accept my fate and resign as a woman on the internet.
 
-========== Tweeted on: Mon Jan 01 19:20:25 +0000 2018
+========== Tweeted on: Sat Feb 17 20:32:39 +0000 2018
 
-User Command: node liri.js tweets NewsAPIorg
-Tweet #6 By: @NewsAPIorg ==========
+User Command: node liri.js tweets bessbell
+Tweet #6 By: @bessbell ==========
 
-https://t.co/u0N7TWK2EY 🙌🙌🙌
+And when we read: "The indictment revealed 'operations primarily intended to communicate derogatory information abo… https://t.co/qk3uBJZbBO
 
-========== Tweeted on: Wed Nov 22 18:20:04 +0000 2017
+========== Tweeted on: Sat Feb 17 20:31:54 +0000 2018
 
-User Command: node liri.js tweets NewsAPIorg
-Tweet #7 By: @NewsAPIorg ==========
+User Command: node liri.js tweets bessbell
+Tweet #7 By: @bessbell ==========
 
-@mattpedigo Hey Matt, is this for the v2/top-headlines endpoint?
+As rational adults, we can love Bernie Sanders and agree with every single thing he stands for and also be like "Wo… https://t.co/dccQZNwU5X
 
-========== Tweeted on: Sun Nov 19 23:47:43 +0000 2017
+========== Tweeted on: Sat Feb 17 20:30:08 +0000 2018
 
-User Command: node liri.js tweets NewsAPIorg
-Tweet #8 By: @NewsAPIorg ==========
+User Command: node liri.js tweets bessbell
+Tweet #8 By: @bessbell ==========
 
-@bhim3003 Hello! Yes, 10k/month for developer accounts
+@CaMorphy "The indictment revealed that the efforts included “operations primarily intended to communicate derogato… https://t.co/X99uHw10XC
 
-========== Tweeted on: Sun Nov 19 05:24:22 +0000 2017
+========== Tweeted on: Sat Feb 17 20:23:36 +0000 2018
 
-User Command: node liri.js tweets NewsAPIorg
-Tweet #9 By: @NewsAPIorg ==========
+User Command: node liri.js tweets bessbell
+Tweet #9 By: @bessbell ==========
 
-@arungaucher1 Now 😉 https://t.co/0tJSPDHhKN
+@Dahveed97od Yep.
 
-========== Tweeted on: Thu Nov 16 22:14:27 +0000 2017
+========== Tweeted on: Sat Feb 17 20:23:12 +0000 2018
 
-User Command: node liri.js tweets NewsAPIorg
-Tweet #10 By: @NewsAPIorg ==========
+User Command: node liri.js tweets bessbell
+Tweet #10 By: @bessbell ==========
 
-@blabr_me Sorry, not yet 😋
+@no1circles Right. That's not the point.
 
-========== Tweeted on: Thu Nov 16 16:27:57 +0000 2017
+========== Tweeted on: Sat Feb 17 20:23:03 +0000 2018
 
-User Command: node liri.js tweets NewsAPIorg
-Tweet #11 By: @NewsAPIorg ==========
+User Command: node liri.js tweets bessbell
+Tweet #11 By: @bessbell ==========
 
-@CEHAshwinkapes https://t.co/ay2qafBHsj
+@jilliansw Not directly since the actual information came out.
 
-========== Tweeted on: Tue Nov 14 21:52:46 +0000 2017
+========== Tweeted on: Sat Feb 17 20:22:37 +0000 2018
 
-User Command: node liri.js tweets NewsAPIorg
-Tweet #12 By: @NewsAPIorg ==========
+User Command: node liri.js tweets bessbell
+Tweet #12 By: @bessbell ==========
 
-@capitolcall Politico is up now here: https://t.co/klNNM3uFJ4
+@travishelwig @DEADLINE Threw out my shoulder passing on this
 
-Feel free to send over any more suggestions 😉
+========== Tweeted on: Sat Feb 17 19:39:21 +0000 2018
 
-========== Tweeted on: Tue Nov 14 20:10:44 +0000 2017
+User Command: node liri.js tweets bessbell
+Tweet #13 By: @bessbell ==========
 
-User Command: node liri.js tweets NewsAPIorg
-Tweet #13 By: @NewsAPIorg ==========
+RT @shannonrwatts: Watch Emma Gonzalez burn down Donald Trump, the @NRA and lawmakers beholden to them during a scathing speech today in Fo…
 
-@capitolcall Gotcha. That's a long way off unfortunately. How about if we add more politics-only sources?
+========== Tweeted on: Sat Feb 17 19:38:25 +0000 2018
 
-========== Tweeted on: Tue Oct 31 19:28:46 +0000 2017
+User Command: node liri.js tweets bessbell
+Tweet #14 By: @bessbell ==========
 
-User Command: node liri.js tweets NewsAPIorg
-Tweet #14 By: @NewsAPIorg ==========
+RT @BillWeirCNN: This tweet is a fucking lie.
+To buy a gun in Israel, you must
+-prove you live or work in danger
+-pass a shooting test
+-get…
 
-@capitolcall Is your use case to be able to get ALL articles that are politics related?
+========== Tweeted on: Sat Feb 17 19:38:18 +0000 2018
 
-========== Tweeted on: Tue Oct 31 15:47:29 +0000 2017
+User Command: node liri.js tweets bessbell
+Tweet #15 By: @bessbell ==========
 
-User Command: node liri.js tweets NewsAPIorg
-Tweet #15 By: @NewsAPIorg ==========
+RT @sighnatasha: 17 of my classmates and staff were killed on Valentine’s Day. Seventeen. @realDonaldTrump Stop abusing your power and corr…
 
-@Bill_Huizenga Maybe in the future but that's hard for our tech to do right now, sorry
+========== Tweeted on: Sat Feb 17 17:42:30 +0000 2018
 
-========== Tweeted on: Sun Oct 29 10:37:32 +0000 2017
+User Command: node liri.js tweets bessbell
+Tweet #16 By: @bessbell ==========
 
-User Command: node liri.js tweets NewsAPIorg
-Tweet #16 By: @NewsAPIorg ==========
+Goodnight comb
+Goodnight brush
+Goodnight nobody
+Goodnight mush
+And goodnight to the old lady
+Whispering "hush"
+Good… https://t.co/c1FzGg5lz4
 
-@Mars1982Ltd Yep 😁 https://t.co/mhdNerof3M
+========== Tweeted on: Sat Feb 17 08:40:46 +0000 2018
 
-========== Tweeted on: Sun Oct 22 14:36:20 +0000 2017
+User Command: node liri.js tweets bessbell
+Tweet #17 By: @bessbell ==========
 
-User Command: node liri.js tweets NewsAPIorg
-Tweet #17 By: @NewsAPIorg ==========
+You're tough, @NRA, but god help you if you cross a teenage girl. https://t.co/5iRgQitkNo
 
-@VictoriaVoitkun ...done!
+========== Tweeted on: Sat Feb 17 00:50:01 +0000 2018
 
-========== Tweeted on: Mon Oct 16 12:04:32 +0000 2017
+User Command: node liri.js tweets bessbell
+Tweet #18 By: @bessbell ==========
 
-User Command: node liri.js tweets NewsAPIorg
-Tweet #18 By: @NewsAPIorg ==========
+@JensenClan88 omg
 
-@VictoriaVoitkun Thanks Victoria - will fix asap
+========== Tweeted on: Sat Feb 17 00:46:38 +0000 2018
 
-========== Tweeted on: Mon Oct 16 11:46:39 +0000 2017
+User Command: node liri.js tweets bessbell
+Tweet #19 By: @bessbell ==========
 
-User Command: node liri.js tweets NewsAPIorg
-Tweet #19 By: @NewsAPIorg ==========
+@longlivekcx You are the bravest person I've ever seen.
 
-@droptablemain Not right now 😀
+========== Tweeted on: Sat Feb 17 00:41:27 +0000 2018
 
-========== Tweeted on: Mon Oct 16 11:45:47 +0000 2017
+User Command: node liri.js tweets bessbell
+Tweet #20 By: @bessbell ==========
 
-User Command: node liri.js tweets NewsAPIorg
-Tweet #20 By: @NewsAPIorg ==========
+I wish conservatives cared about the right to life of high school students HALF as much as fetuses.
 
-@Christoffair It's definitely on the roadmap Christopher. No eta right now though.
-
-========== Tweeted on: Tue Oct 10 19:59:09 +0000 2017
+========== Tweeted on: Sat Feb 17 00:35:10 +0000 2018

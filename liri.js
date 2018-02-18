@@ -43,7 +43,7 @@ function spotZilla(functionData) {
 	spotify.search({ type: "track", query: functionData }, function(err, data) {
 		if(!err){
 			var songInfo = data.tracks.items;
-			updateLogCmd(caseData, functionData);
+			updateLogCmd(caseData, functionData); //LOG command line data to log.txt file
 			for (var i = 0; i < 10; i++) {
 				var tick = i + 1;
 					results = 
@@ -56,8 +56,8 @@ function spotZilla(functionData) {
 						"\nAlbum: " + songInfo[i].album.name +
 						"\nPreview Url: " + songInfo[i].preview_url +
 						"\n";
-					console.log(results);
-					updateLogData(results);
+					console.log(results); //Display results on screen
+					updateLogData(results); //LOG returned data to log.txt file
 			}
 		}
 	});
@@ -85,7 +85,7 @@ function movieZilla(functionData) {
 	request(queryUrl, function(error, response, body) {
 		if (!error && response.statusCode == 200) {
 			var jsonData = JSON.parse(body);
-			updateLogCmd(caseData, functionData);
+			updateLogCmd(caseData, functionData); //LOG command line data to log.txt file
 			results = 
 				"\nOMDb API Results for: " + functionData + 
 				" ====================" +  
@@ -95,15 +95,14 @@ function movieZilla(functionData) {
 				"\n Release Year: " + jsonData.Year + 
 				"\n  -Filmed in: " + jsonData.Country + 
 				"\n  -Language: " + jsonData.Language + 				
-				"\nMovie Plot: ==================================================================\n" +
-				jsonData.Plot + 
+				"\nMovie Plot: ==================================================================\n" + jsonData.Plot + 
 				"\nRotten Tomatoes: =============================================================" +
 				"\n Score: " + jsonData.Ratings[1].Value + 
 				"\n URL: " + jsonData.tomatoURL + 
 				"\n===============================================================================" + 
 				"\n";;
-			console.log(results);
-			updateLogData(results);
+			console.log(results); //Display results on screen
+			updateLogData(results); //LOG returned data to log.txt file
 		}
 	});
 }
@@ -126,9 +125,9 @@ function tweetZilla(functionData){
 					+ functionData[i].text + "\n\n========== Tweeted on: " 
 					+ functionData[i].created_at + 
 					"\n";;
-				console.log(results);
-				updateLogCmd("tweets", functionData[i].user.screen_name);
-				updateLogData(results);
+				console.log(results); //Display results on screen
+				updateLogCmd("tweets", functionData[i].user.screen_name); //LOG command line data to log.txt file
+				updateLogData(results); //LOG returned data to log.txt file
 			}
 		}
 	});
@@ -207,7 +206,7 @@ function pick(caseData, functionData) {
 				"\n    2. spotify <song title> or <song title band name> or <leave blank>" +
 				"\n    3. movie <name of movie> or <leave blank>" +
 				"\n    4. doIt (Call one of the above commands based on data in the file: 'random.txt'" +
-				"\n             data structure for file: <command,'title or userName'>)" + 
+				"\n         data structure for file: <command,'title or userName'>, include quotes.)" + 
 				"\n========================================================================================");
 	}
 }
