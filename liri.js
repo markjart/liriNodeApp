@@ -134,7 +134,7 @@ function tweetZilla(functionData){
 	});
 };
 
-/*doZilla takes inputs in the form: node liri.js doItToIt, which, in turn, will read the information in random.txt as <command,"title or userName"> which will call the appropriate function and pass the data provided (Examples: spotify,"I Want it That Way" || movie,"The Right Stuff" || tweets,"@pattonoswalt").
+/*doZilla takes inputs in the form: node liri.js doIt, which, in turn, will read the information in random.txt as <command,"title or userName"> which will call the appropriate function and pass the data provided (Examples: spotify,"I Want it That Way" || movie,"The Right Stuff" || tweets,"@pattonoswalt").
 NOTE: I changed the commands (do-what-it-says is now "doItToIt" - no quotes) because I, and my LIRI, hate dashes.*/
 function doZilla() {
 	fs.readFile("random.txt", "utf8", function(error, readIt){
